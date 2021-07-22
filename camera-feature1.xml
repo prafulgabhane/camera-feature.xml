@@ -264,5 +264,6 @@
     <local name="SUPPORT_CAMERA_APP_ENTRY_PERFORMANCE" value="true"/>
     <local name="SUPPORT_IPP_EFFECT_CAPTURE_IN_CORE2" value="true"/>
     <local name="MAX_POST_PROCESSING_COUNT_FOR_CAPTURE" value="9"/>
+	<!-- MODS BY © PRAFUL GABHANE -->
 
 </resources>
