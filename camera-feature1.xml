@@ -90,7 +90,7 @@
     <!-- Multi-camera features ADDED-->
     <local name="SUPPORT_BACK_WIDE_NORMAL_DUAL_PORTRAIT" value="true"/>
     <local name="BACK_WIDE_CAMERA_ID" value="50"/>
-	<local name="SUPPORT_SEAMLESS_ZOOM" value="true"/>
+	<local name="SUPPORT_SEAMLESS_ZOOM" value="false"/>
 	<local name="BACK_SECOND_TELE_CAMERA_ID" value="53"/>
     <local name="SUPPORT_BACK_SECOND_TELE_CAMERA" value="true"/> 
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true"/>
